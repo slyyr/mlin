@@ -4,7 +4,12 @@
 
 Have you ever wondered how Netflix knows what you want to watch next, how Google Translate understands different languages, or how your phone recognizes your face? The secret behind these incredible technologies is Machine Learning (ML).
 
+<br></br>
+
 <img src="assets/meme.jpeg" width="550">
+
+<br></br>
+
 
 Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data, recognize patterns, make predictions, and improve their performance without being explicitly programmed for every situation.
 
