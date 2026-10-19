@@ -22,4 +22,4 @@ for i in arr:
 arr2 = np.array(l)
 print(arr2)
 
-sns.boxplot(x = arr2)
+sns.boxplot(x = arr2, color="yellow")
