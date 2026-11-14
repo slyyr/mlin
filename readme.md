@@ -27,3 +27,4 @@ Some fundamental algorithms include Linear Regression, Logistic Regression, Deci
 ## 🌍 Applications of Machine Learning
 
 Machine Learning powers recommendation systems, fraud detection, medical diagnosis, financial forecasting, image recognition, natural language processing, autonomous vehicles, and intelligent robotics.
+
